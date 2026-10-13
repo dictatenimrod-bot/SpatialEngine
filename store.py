@@ -111,7 +111,7 @@ class SpatialPaths:
         Путь к файлу определения сущности.
 
         Пример:
-            entities/characters/лилит.json
+            entities/characters/char.json
             entities/objects/дверь.json
         """
         layer_dir_name = {
